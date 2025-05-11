@@ -9,8 +9,8 @@ Here's a preview of the sidebar:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6a599532-20d5-4885-8ac3-545d9ada731f" alt="Sidebar Screenshot 1" width="90" height="850" /></td>
-    <td><img src="https://github.com/user-attachments/assets/941543cc-71fc-4730-8d47-64726048dccd" alt="Sidebar Screenshot 2" width="350" height="850" /></td>
+    <td><img src="https://github.com/user-attachments/assets/6a599532-20d5-4885-8ac3-545d9ada731f" alt="Sidebar Screenshot 1" width="90" height="950" /></td>
+    <td><img src="https://github.com/user-attachments/assets/941543cc-71fc-4730-8d47-64726048dccd" alt="Sidebar Screenshot 2" width="350" height="950" /></td>
   </tr>
 </table>
 
